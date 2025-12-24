@@ -1,0 +1,22 @@
+{
+  "cards": [
+    {
+      "front": "hallo",
+      "back": "hello",
+      "ease_factor": 2.5,
+      "interval": 0,
+      "repetitions": 0,
+      "next_review": "2025-12-24T22:28:07.192075",
+      "created": "2025-12-24T22:28:07.192075"
+    },
+    {
+      "front": "guten morgen",
+      "back": "good  morning",
+      "ease_factor": 2.5,
+      "interval": 0,
+      "repetitions": 0,
+      "next_review": "2025-12-24T22:28:51.167004",
+      "created": "2025-12-24T22:28:51.167004"
+    }
+  ]
+}
