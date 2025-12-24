@@ -6,7 +6,6 @@
 ![PyTorch](https://img.shields.io/badge/PyTorch-2.0+-red.svg)
 ![Transformers](https://img.shields.io/badge/Transformers-4.0+-yellow.svg)
 ![Streamlit](https://img.shields.io/badge/Streamlit-1.0+-FF4B4B.svg)
-![License](https://img.shields.io/badge/License-MIT-green.svg)
 
 A comprehensive collection of intelligent educational and productivity tools powered by machine learning, featuring a custom fine-tuned BART model for advanced text summarization.
 
@@ -241,12 +240,6 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 ---
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
 ## Acknowledgments
 
 <table>
@@ -266,7 +259,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 <div align="center">
 
-**Made with passion and AI**
 
 [⬆ Back to Top](#ai-powered-learning--productivity-suite)
 
