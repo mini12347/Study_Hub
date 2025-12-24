@@ -1,4 +1,4 @@
-# AI-Powered Learning & Productivity Suite
+# Study_Hub
 
 <div align="center">
 
